@@ -1,0 +1,3 @@
+- 👋 Oi, Eu sou @Aluno-prog
+- 👀 Estou procurando por...
+- 🌱 Eu estou aprendendo..
